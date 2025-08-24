@@ -74,7 +74,7 @@ li {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 30px auto;
-  height: 250px;
+  height: auto;
   background-color: brown;
   color: #fff;
 
